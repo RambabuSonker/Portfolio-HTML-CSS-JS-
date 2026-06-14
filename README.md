@@ -17,21 +17,22 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - GitHub and LinkedIn links
 
 ## 📸 Project Preview
+## 📸 Portfolio Preview
 
 ### 🏠 Home Page
-![Home](assets/home.png)
+![Home](Screenshot%202026-06-15%20013251.png)
 
-### 👨‍💻 About Section
-![About](assets/about.png)
+### 👤 About Section
+![About](Screenshot%202026-06-15%20013307.png)
 
 ### 🛠️ Projects Section
-![Projects](assets/projects.png)
+![Projects](Screenshot%202026-06-15%20013326.png)
+
+### 💻 Skills Section
+![Skills](Screenshot%202026-06-15%20013340.png)
 
 ### 📞 Contact Section
-![Contact](assets/contact.png)
-
-## 🔗 Live Demo
-Add your deployed portfolio link here.
+![Contact](Screenshot%202026-06-15%20013355.png)
 
 ## 👨‍💻 Author
 **Rambabu Sonker**
