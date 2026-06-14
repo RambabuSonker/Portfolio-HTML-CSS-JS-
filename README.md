@@ -16,7 +16,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - Contact section
 - GitHub and LinkedIn links
 
-## 📸 Project Preview
 ## 📸 Portfolio Preview
 
 ### 🏠 Home Page
